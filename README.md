@@ -4,7 +4,9 @@ PetCare Connect is a no-code mobile application developed using Adalo to bring e
 The application supports pet adoption, lost and found reports, and veterinary consultations. It was developed through a complete Software Development Life Cycle process, including requirements gathering, feasibility analysis, system design, implementation, and testing.
 
 <p align="center">
-  <img src="screenshots/petcare-home-screen.png" alt="PetCare Connect home screen" width="250">
+  <img src="screenshots/petcare-home-screen.png"
+       alt="PetCare Connect home screen"
+       width="300">
 </p>
 
 ## Live Application
